@@ -1,2 +1,2 @@
-#Make code arcade game link
+# Make code arcade game link
 https://ekedrosky.github.io/maze-game/
